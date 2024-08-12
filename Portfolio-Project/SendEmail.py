@@ -3,7 +3,7 @@ import ssl
 
 def Emailer(message):
     username = "namansharma9858581009@gmail.com"
-    password = "vbftlvruxkaeycvc"
+    password = "ObviouslyCan'tShowItHere"
     host = "smtp.gmail.com"
     port = 465
     receivers_email = "meteoritestudios123@gmail.com"
